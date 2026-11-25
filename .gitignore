@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Temporary Manim rendering files
+media/videos/
+media/rendered_scenes/
+
+# Dependencies
+assets/mathjax/node_modules/
+
+# Generated Manim renders and temporary assets
+media/videos/
+media/rendered_scenes/
+media/qa_frames/
+media/texts/
+media/Tex/
+assets/tex_cache/
